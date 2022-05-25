@@ -1,0 +1,56 @@
+{
+	"bug": {
+		"bgClass": "bg-[#8BD674]"
+	},
+	"dark": {
+		"bgClass": "bg-[#6F6E78]"
+	},
+	"dragon": {
+		"bgClass": "bg-[#7383B9]"
+	},
+	"electric": {
+		"bgClass": "bg-[#F2CB55]"
+	},
+	"fairy": {
+		"bgClass": "bg-[#EBA8C3]"
+	},
+	"fighting": {
+		"bgClass": "bg-[#EB4971]"
+	},
+	"fire": {
+		"bgClass": "bg-[#FFA756]"
+	},
+	"flying": {
+		"bgClass": "bg-[#83A2E3]"
+	},
+	"ghost": {
+		"bgClass": "bg-[#8571BE]"
+	},
+	"grass": {
+		"bgClass": "bg-[#8BBE8A]"
+	},
+	"ground": {
+		"bgClass": "bg-[#F78551]"
+	},
+	"ice": {
+		"bgClass": "bg-[#91D8DF]"
+	},
+	"normal": {
+		"bgClass": "bg-[#B5B9C4]"
+	},
+	"poison": {
+		"bgClass": "bg-[#9F6E97]"
+	},
+	"psychic": {
+		"bgClass": "bg-[#FF6568]"
+	},
+	"rock": {
+		"bgClass": "bg-[#D4C294]"
+	},
+	"steel": {
+		"bgClass": "bg-[#4C91B2]"
+	},
+	"water": {
+		"bgClass": "bg-[#58ABF6]"
+	}
+}
