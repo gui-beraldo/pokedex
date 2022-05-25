@@ -7,7 +7,7 @@ export function Card(props: any) {
 		<div
 			className={
 				(type === undefined ? 'bg-zinc-300' : type.bgClass) +
-				' flex h-[115px] justify-between mx-10 mt-[30px] pl-5 pt-5 pb-[10px] pr-[10px] rounded-[10px] bg-PokemonCard bg-no-repeat bg-right'
+				' flex h-[115px] justify-between mx-10 mt-[30px] pl-5 pt-5 pb-[10px] pr-[10px] rounded-[10px] bg-PokemonCard bg-no-repeat bg-right drop-shadow-xl'
 			}
 		>
 			{props.children}
