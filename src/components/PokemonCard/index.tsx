@@ -18,7 +18,7 @@ export function PokemonCard({ pokemonUrl }: any) {
 	return (
 		<>
 			{loading ? (
-				<div>Carregando...</div>
+				<Card />
 			) : (
 				<>
 					<Card pokemonType={pokemon.types[0].type.name}>
