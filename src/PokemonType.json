@@ -5,70 +5,70 @@
 	},
 	"dark": {
 		"bgClass": "bg-[#6F6E78]",
-		"badgeClass": "bg-[#58575F] bg-BugIcon"
+		"badgeClass": "bg-[#58575F] bg-DarkIcon"
 	},
 	"dragon": {
 		"bgClass": "bg-[#7383B9]",
-		"badgeClass": "bg-[#0F6AC0] bg-BugIcon"
+		"badgeClass": "bg-[#0F6AC0] bg-DragonIcon"
 	},
 	"electric": {
 		"bgClass": "bg-[#F2CB55]",
-		"badgeClass": "bg-[#EED535] bg-BugIcon"
+		"badgeClass": "bg-[#EED535] bg-ElectricIcon"
 	},
 	"fairy": {
 		"bgClass": "bg-[#EBA8C3]",
-		"badgeClass": "bg-[#ED6EC7] bg-BugIcon"
+		"badgeClass": "bg-[#ED6EC7] bg-FairyIcon"
 	},
 	"fighting": {
 		"bgClass": "bg-[#EB4971]",
-		"badgeClass": "bg-[#D04164] bg-BugIcon"
+		"badgeClass": "bg-[#D04164] bg-FightingIcon"
 	},
 	"fire": {
 		"bgClass": "bg-[#FFA756]",
-		"badgeClass": "bg-[#FD7D24] bg-BugIcon"
+		"badgeClass": "bg-[#FD7D24] bg-FireIcon"
 	},
 	"flying": {
 		"bgClass": "bg-[#83A2E3]",
-		"badgeClass": "bg-[#748FC9] bg-BugIcon"
+		"badgeClass": "bg-[#748FC9] bg-FlyingIcon"
 	},
 	"ghost": {
 		"bgClass": "bg-[#8571BE]",
-		"badgeClass": "bg-[#556AAE] bg-BugIcon"
+		"badgeClass": "bg-[#556AAE] bg-GhostIcon"
 	},
 	"grass": {
 		"bgClass": "bg-[#8BBE8A]",
-		"badgeClass": "bg-[#62B957] bg-BugIcon"
+		"badgeClass": "bg-[#62B957] bg-GrassIcon"
 	},
 	"ground": {
 		"bgClass": "bg-[#F78551]",
-		"badgeClass": "bg-[#DD7748] bg-BugIcon"
+		"badgeClass": "bg-[#DD7748] bg-GroundIcon"
 	},
 	"ice": {
 		"bgClass": "bg-[#91D8DF]",
-		"badgeClass": "bg-[#61CEC0] bg-BugIcon"
+		"badgeClass": "bg-[#61CEC0] bg-IceIcon"
 	},
 	"normal": {
 		"bgClass": "bg-[#B5B9C4]",
-		"badgeClass": "bg-[#9DA0AA] bg-BugIcon"
+		"badgeClass": "bg-[#9DA0AA] bg-NormalIcon"
 	},
 	"poison": {
 		"bgClass": "bg-[#9F6E97]",
-		"badgeClass": "bg-[#A552CC] bg-BugIcon"
+		"badgeClass": "bg-[#A552CC] bg-PoisonIcon"
 	},
 	"psychic": {
 		"bgClass": "bg-[#FF6568]",
-		"badgeClass": "bg-[#EA5D60] bg-BugIcon"
+		"badgeClass": "bg-[#EA5D60] bg-PsychicIcon"
 	},
 	"rock": {
 		"bgClass": "bg-[#D4C294]",
-		"badgeClass": "bg-[#BAAB82] bg-BugIcon"
+		"badgeClass": "bg-[#BAAB82] bg-RockIcon"
 	},
 	"steel": {
 		"bgClass": "bg-[#4C91B2]",
-		"badgeClass": "bg-[#417D9A] bg-BugIcon"
+		"badgeClass": "bg-[#417D9A] bg-SteelIcon"
 	},
 	"water": {
 		"bgClass": "bg-[#58ABF6]",
-		"badgeClass": "bg-[#4A90DA] bg-BugIcon"
+		"badgeClass": "bg-[#4A90DA] bg-WaterIcon"
 	}
 }
