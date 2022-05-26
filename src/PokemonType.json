@@ -1,56 +1,74 @@
 {
 	"bug": {
-		"bgClass": "bg-[#8BD674]"
+		"bgClass": "bg-[#8BD674]",
+		"badgeClass": "bg-[#62b957] bg-BugIcon"
 	},
 	"dark": {
-		"bgClass": "bg-[#6F6E78]"
+		"bgClass": "bg-[#6F6E78]",
+		"badgeClass": "bg-[#58575F] bg-BugIcon"
 	},
 	"dragon": {
-		"bgClass": "bg-[#7383B9]"
+		"bgClass": "bg-[#7383B9]",
+		"badgeClass": "bg-[#0F6AC0] bg-BugIcon"
 	},
 	"electric": {
-		"bgClass": "bg-[#F2CB55]"
+		"bgClass": "bg-[#F2CB55]",
+		"badgeClass": "bg-[#EED535] bg-BugIcon"
 	},
 	"fairy": {
-		"bgClass": "bg-[#EBA8C3]"
+		"bgClass": "bg-[#EBA8C3]",
+		"badgeClass": "bg-[#ED6EC7] bg-BugIcon"
 	},
 	"fighting": {
-		"bgClass": "bg-[#EB4971]"
+		"bgClass": "bg-[#EB4971]",
+		"badgeClass": "bg-[#D04164] bg-BugIcon"
 	},
 	"fire": {
-		"bgClass": "bg-[#FFA756]"
+		"bgClass": "bg-[#FFA756]",
+		"badgeClass": "bg-[#FD7D24] bg-BugIcon"
 	},
 	"flying": {
-		"bgClass": "bg-[#83A2E3]"
+		"bgClass": "bg-[#83A2E3]",
+		"badgeClass": "bg-[#748FC9] bg-BugIcon"
 	},
 	"ghost": {
-		"bgClass": "bg-[#8571BE]"
+		"bgClass": "bg-[#8571BE]",
+		"badgeClass": "bg-[#556AAE] bg-BugIcon"
 	},
 	"grass": {
-		"bgClass": "bg-[#8BBE8A]"
+		"bgClass": "bg-[#8BBE8A]",
+		"badgeClass": "bg-[#62B957] bg-BugIcon"
 	},
 	"ground": {
-		"bgClass": "bg-[#F78551]"
+		"bgClass": "bg-[#F78551]",
+		"badgeClass": "bg-[#DD7748] bg-BugIcon"
 	},
 	"ice": {
-		"bgClass": "bg-[#91D8DF]"
+		"bgClass": "bg-[#91D8DF]",
+		"badgeClass": "bg-[#61CEC0] bg-BugIcon"
 	},
 	"normal": {
-		"bgClass": "bg-[#B5B9C4]"
+		"bgClass": "bg-[#B5B9C4]",
+		"badgeClass": "bg-[#9DA0AA] bg-BugIcon"
 	},
 	"poison": {
-		"bgClass": "bg-[#9F6E97]"
+		"bgClass": "bg-[#9F6E97]",
+		"badgeClass": "bg-[#A552CC] bg-BugIcon"
 	},
 	"psychic": {
-		"bgClass": "bg-[#FF6568]"
+		"bgClass": "bg-[#FF6568]",
+		"badgeClass": "bg-[#EA5D60] bg-BugIcon"
 	},
 	"rock": {
-		"bgClass": "bg-[#D4C294]"
+		"bgClass": "bg-[#D4C294]",
+		"badgeClass": "bg-[#BAAB82] bg-BugIcon"
 	},
 	"steel": {
-		"bgClass": "bg-[#4C91B2]"
+		"bgClass": "bg-[#4C91B2]",
+		"badgeClass": "bg-[#417D9A] bg-BugIcon"
 	},
 	"water": {
-		"bgClass": "bg-[#58ABF6]"
+		"bgClass": "bg-[#58ABF6]",
+		"badgeClass": "bg-[#4A90DA] bg-BugIcon"
 	}
 }
