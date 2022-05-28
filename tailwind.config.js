@@ -3,6 +3,9 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
+				bgPokemon: "url('/src/assets/bgPokemon.svg')",
+				bgHome: "url('/src/assets/bg/bgHome.svg')",
+				SearchIcon: "url('/src/assets/icons/Search.svg')",
 				PokemonCard: "url('/src/assets/bg/Pokeball.svg')",
 				BugIcon: "url('/src/assets/pokemonTypeIcon/Bug.svg')",
 				DarkIcon: "url('/src/assets/pokemonTypeIcon/Dark.svg')",

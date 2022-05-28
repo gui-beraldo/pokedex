@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { getPokemon } from 'services/gettingPokemons';
 import { Card } from './Card';
-import { PokemonType } from './PokemonType';
+import { PokemonType } from '../PokemonType';
 
 export function PokemonCard({ pokemonUrl }: any) {
 	const [loading, setLoading] = useState<boolean>(true);
@@ -20,7 +20,16 @@ export function PokemonCard({ pokemonUrl }: any) {
 	return (
 		<>
 			{loading ? (
-				<Card />
+				<Card>
+					<div className="z-10 flex flex-col">
+						<p className="before:content-['#'] font-bold text-xs leading-[1.2] text-[#17171b] opacity-60">
+							000
+						</p>
+						<p className="font-bold text-[26px] leading-[1.2] capitalize text-white">
+							Loading...
+						</p>
+					</div>
+				</Card>
 			) : (
 				<>
 					<Card pokemonType={pokemon.types[0].type.name}>

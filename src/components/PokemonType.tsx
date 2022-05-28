@@ -1,4 +1,4 @@
-import Pokemon from '../../PokemonType.json';
+import Pokemon from '../PokemonType.json';
 
 export function PokemonType(props: any) {
 	const type = Pokemon[props.type];
